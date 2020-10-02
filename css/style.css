@@ -1,0 +1,147 @@
+/* navbar */
+.navbar{
+  background-color: #463333;
+  padding:18px 13%;
+}
+.navbar-nav{
+  text-align: right;
+}
+.navbar-logo{
+margin-right: 5px;
+}
+
+.navbar-brand{
+  font-family: "Ubuntu";
+  font-size: 1.5rem;
+  font-weight: bold;
+  color:#fff;
+}
+.nav-item{
+  padding: 0 11px;
+}
+.nav-link{
+  font-size: 1.2rem;
+  font-family: "Montserrat-Light";
+  color: #fff;
+}
+
+/* Title carousel */
+
+#carouselExampleCaptions {
+text-align: center;
+color: #fff;
+}
+
+h2{
+  font-family: Merriweather serif;
+  line-height: 2;
+  font-weight: bold;
+}
+
+/* Feauture Section */
+
+.white-section {
+  background-color: #e3fdfd;
+}
+
+.container-fluid{
+  padding: 4% 13%;
+}
+#features {
+  position: relative;
+}
+
+.feature-title {
+  font-size: 1.5rem;
+}
+
+.feature-box {
+  padding:2% 4.5%;
+  text-align: center;
+}
+.f-image{
+  width:120px;
+}
+/* YouTube and App */
+.yt{text-align: left;
+background-color: #71c9ce;
+padding: 1% 13% 5%;
+
+}
+.yt-text{
+  padding-top:4%;
+  font-family: Montserrat-black;
+  font-size: 3rem;
+  line-height: 1.5;
+}
+.download-button{
+  margin:3% 3% 5% 0;
+}
+
+/* founder */
+
+.founder{
+  padding: 6% 13%;
+  background-color: #e3fdfd;
+}
+
+
+
+/* testimonial */
+
+#testimonials {
+  background-color: #71c9ce;
+  text-align: center;
+}
+
+.testimonial-text {
+  font-family: Montserrat-black;
+  font-size: 3rem;
+  line-height: 1.5;
+}
+
+.testimonial-image {
+  width: 10%;
+  border-radius: 100%;
+  margin: 20px;
+}
+
+/* donate and join */
+.donate-join{
+  background-color: #e3fdfd;
+  padding: 6% 13%;
+  line-height: 2;
+}
+.join-img{
+  width: 24%;
+  float: left;
+  margin-right: 40px;
+}
+.donate-img{
+  width: 28%;
+float: right;
+margin-left: 40px;
+}
+.donate-text{
+text-align: right;
+margin-left: 25%;
+margin-top: 8%;
+}
+.join-text{
+  text-align: left;
+  margin-right: 25%;
+  margin-top: 8%;
+}
+
+
+/* footer - section */
+.social-icon {
+  margin: 20px 10px;
+  font-size: 1.5rem;
+}
+.footer-sec{
+  color: #fff;
+  text-align: center;
+  background-color: #463333;
+  padding: 7% 13%;
+}
